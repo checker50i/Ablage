@@ -1,39 +1,45 @@
 #EXTM3U
-#EXTINF:0,Aljazeera TV
-http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
-#EXTINF:0,Aljazeera Mubasher TV
+#EXTINF:0,Aljazeera
+http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+#EXTINF:0,Aljazeera Mubasher
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
-#EXTINF:0,Aljazeera Documentary TV
-http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/800kStream.m3u8
-#EXTINF:0,Elsharq TV
+#EXTINF:0,Aljazeera Documentary
+http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
+#EXTINF:0,Elsharq
 http://cdn.edge.tmed.pw:8081/elsharqtv/abr/playlist.m3u8
-#EXTINF:0,Mekameleen TV
+#EXTINF:0,Mekameleen
 http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/playlist.m3u8
-#EXTINF:0,Mekameleen 2 TV
-http://cdn.edge.tmed.pw:8081/mekameleen2tv/abr/playlist.m3u8
-#EXTINF:0,Watan TV
+#EXTINF:0,Watan
 http://cdn.edge.tmed.pw:8081/watantv_abr/live/playlist.m3u8
-#EXTINF:0,Alqanat TV
+#EXTINF:0,Alqanat
 http://cdn.edge.tmed.pw:8081/alqanattv_abr/live/playlist.m3u8
-#EXTINF:0,Daawah TV
+#EXTINF:0,Daawah
 http://cdn.edge.tmed.pw:8081/daawahtv_abr/live/playlist.m3u8
-#EXTINF:0,Arraed TV
+#EXTINF:0,Arraed
 http://cdn.edge.tmed.pw:8081/arraedtv/abr/playlist.m3u8
-#EXTINF:0,Alhiwar TV
+#EXTINF:0,Alhiwar
 http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
-#EXTINF:0,TRT Arabic TV
+#EXTINF:0,TRT Arabic
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:0,BBC Arabic TV
-http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_400_av-p.m3u8
-#EXTINF:0,France 24 Arabic TV
+#EXTINF:0,BBC Arabic
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-b.m3u8
+#EXTINF:0,Euronews Arabic
+http://euronews-live-b-cdn.hexaglobe.net/994b617a5207b356c83d511399462c5b/590872fd/euronews/ewnslivebkp_ara.smil/ewnslivebkp_ara_540p.m3u8
+#EXTINF:0,France 24 Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:0,DW Arabic TV
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
-#EXTINF:0,Alquds TV
+#EXTINF:0,DW Arabic
+http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8
+#EXTINF:0,Alquds
 http://www.qudstv.com:8134/hls-live/livepkgr1/_definst_/liveevent/livestream.m3u8
-#EXTINF:0,Alaqsa TV
+#EXTINF:0,Alaqsa
 http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
-#EXTINF:0,Mekkah TV
+#EXTINF:0,Mekkah
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream1.m3u8
-#EXTINF:0,Madina TV
+#EXTINF:0,Madina
 http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream1.m3u8
+#EXTINF:0,Magd Lel Atfal
+http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
+#EXTINF:0,MBC3
+http://158.69.229.52:8900/MBC3/index.m3u8
+#EXTINF:0,Jeem
+http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream6/masterPlaylist.m3u8
