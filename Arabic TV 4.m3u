@@ -23,8 +23,6 @@ http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:0,BBC Arabic
 http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-b.m3u8
-#EXTINF:0,Euronews Arabic
-http://euronews-live-b-cdn.hexaglobe.net/994b617a5207b356c83d511399462c5b/590872fd/euronews/ewnslivebkp_ara.smil/ewnslivebkp_ara_540p.m3u8
 #EXTINF:0,France 24 Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:0,DW Arabic
@@ -41,5 +39,3 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/str
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 #EXTINF:0,MBC3
 http://158.69.229.52:8900/MBC3/index.m3u8
-#EXTINF:0,Euronews FR
-http://ewns-hls-p-cdn.hexaglobe.net/57413e1a3813c57a3671cd2da39d4c2e/590869f1/euronews_fre.smil/chunklist_b1100000.m3u8
