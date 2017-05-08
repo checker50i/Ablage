@@ -39,3 +39,9 @@ http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/str
 http://adtv.ercdn.net/adsport7/adsport7_720p.m3u8
 #EXTINF:0,MBC3
 http://158.69.229.52:8900/MBC3/index.m3u8
+#EXTINF:0,CNEWS
+http://stream-05.vty.dailymotion.com/14/dm/1/x3b68jn/live.isml/events(live-1493712483)/live-audio=128000-video=6300000.m3u8
+#EXTINF:0,Franceinfo
+http://stream-01.vty.dailymotion.com/37/dm/1/x4rdeu6/live.isml/events(live-1493712464)/live-audio=128000-video=2100000.m3u8
+#EXTINF:0,France24 FR
+http://stream-03.vty.dailymotion.com/48/dm/1/xigbvx/live.isml/events(live-1493847262)/live-audio=128000-video=2100000.m3u8
