@@ -32,8 +32,8 @@ http://www.qudstv.com:8134/hls-live/livepkgr1/_definst_/liveevent/livestream.m3u
 #EXTINF:0,Alaqsa
 http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 #EXTINF:0,Mekkah
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel6/_definst_/live/stream2.m3u8
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/1.m3u8
 #EXTINF:0,Madina
-http://cmt-live.hls.adaptive.level3.net/hls-live/cmt-channel7/_definst_/live/stream2.m3u8
+http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel8/1.m3u8
 #EXTINF:0,Franceinfo
 http://stream-02.vty.dailymotion.com/46/dm/1/x4rdeu6/live.isml/events(live-1494746481)/live-audio=128000-video=735000.m3u8
