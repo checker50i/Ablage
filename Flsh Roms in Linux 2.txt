@@ -1,0 +1,199 @@
+ Re: How to install ROOT, Custom Recovery & Custom Roms (via ADB) on Android (via Linux)
+
+    I decided to reformat and rewrite some parts of the guide from the beginning of this thread.
+
+    Quote Originally Posted by jake007g2 View Post
+    Hi everybody, thought I'd make my first post a useful one.
+    1. Introduction
+    I've always tweaked software on all my devices, and the other day I set about upgrading my Samsung Galaxy S6 Edge to Marshmallow (6.0) from Lollipop (5.0) with a custom ROM. I spent hours trawling through many pages on the internet to find the information I needed which was a pain, especially as there are so many how-to guides for Windows users. So I decided to make a guide using only Linux.
+
+    If you've never heard of "root", "rooting", "custom recovery" or "custom ROMs" until now, I suggest spending a bit of time researching them before jumping in the deep end.
+
+        Root: obtaining root, or rooting, means acquiring super user privileges. It allows you to modify every file of your device, including system files. It is similar to using "sudo" in Ubuntu. Most devices in the market don't come rooted, which means by default you are unable to thinker with many components of your device.
+        Custom recovery: how we install, change, erase, back up, and restore custom ROMs, and fix things if you break them. Using a custom recovery application is like using a live CD or USB drive that allows you to change things before booting into the actual system. The most popular recovery applications are ClockworkMod Recovery (CWM) and Team Win Recovery Project (TWRP).
+        Custom ROM: an unofficial, modified version of the Android operating system with tweaks to make it faster, use different themes, and have functionality normally not found in stock mobile phones. It's the equivalent of a Linux distribution, you can install one ROM that suits your needs, and even make your own. 
+
+
+
+    2. Disclaimer
+
+        As with anything of this nature, there is a chance that you damage your device. If your device does not boot into the home screen, or is stuck rebooting, this is called "bricking", that is, your device does not work any more, except as a paper weight or brick.
+        I will not be held responsible for this so PLEASE ensure you know what you're doing!
+        Just like a desktop or laptop computer, if you brick a mobile phone it is usually possible to make it work again, you just have to repair or reinstall the operating system.
+        Please ensure that any important data on your device, such as photos, contacts, and app data, is backed up before going any further. If you have a Google or Samsung account, it is a good idea to synchronize your data before proceeding. 
+
+
+
+    3. Requirements
+
+        There are a few files you're going to need, these files will be specific for your device. In this guide I will be using a Samsung Galaxy S6 Edge (SM-G925F UK Variant) on stock Marshmallow 6.0.1 for reference. The process for most devices is the same, but you will need the files for your device's model.
+        In your device, head to "Settings" > "About device" to find out model number and other important information. You will need to search on the internet for your "Model number", which looks like "SM-G925F", "GT-I9300", "SM-G530H", etc.
+        Do not search for the commercial name such as "Galaxy S6 Edge", "Galaxy S III", "Galaxy Grand Prime", etc., as the manufacturer may release several times the same phone, but with different firmware.
+        Whilst you're in the "About device" screen, go into "Software info" and tap on the "Build number" about 10 times to enable "Developer options".
+        Go back to the "Settings" screen and enter "Developer options". Make sure the main slider is enabled at the top of the screen, and also the options "USB debugging" and "OEM unlock" are enabled. Some devices don't have "OEM unlock", so ignore it in this case.
+        Install Heimdall. You can do it from the repository, or compile your own. Heimdall allows you to flash (write) the custom recovery images and ROMs into the device. It is the Linux alternative to the Windows-only tool, Odin.
+        Code:
+
+        sudo apt-get install heimdall-flash heimdall-flash-frontend
+
+        Install the Android Debug Bridge (adb), which is used to communicate with a connected Android device. A custom ROM can be installed using a custom recovery application (which you have to install first), or using "adb", as explained here.
+        Code:
+
+        sudo apt-get install adb
+
+        Connect your device with an USB cable to the computer, and run "lsusb", to make sure your device is recognized.
+        Code:
+
+        Bus 002 Device 025: ID 04e8:6860 Samsung Electronics Co., Ltd Galaxy (MTP)
+
+        To be on the safe side, we will declare some generic "udev" rules for main Android phones manufacturers. Create and edit this file
+        Code:
+
+        sudo nano /etc/udev/rules.d/51-android.rules
+
+        Add the following line
+        Code:
+
+        # Samsung
+        SUBSYSTEM=="usb", ATTR{idVendor}=="04e8", MODE="0666", GROUP="plugdev"
+
+        What this does is taking a USB device from vendor 04e8 (Samsung), changing the mode to read-write for everybody (0666), and setting its group to "plugdev". This should help with accessing the device with "heimdall" and "adb". You can add as many rules as you want by adding a new line with the appropriate "idVendor" number, which appears in the output of "lsusb".
+        If you prefer, you can run the following two commands to download a file with many rules. The file, which you can inspect here before downloading, already includes many rules for different vendors. Full credit is given to NicolasBernaerts for hosting the file.
+        Code:
+
+        sudo wget -O /etc/udev/rules.d/51-android.rules https://raw.githubusercontent.com/NicolasBernaerts/ubuntu-scripts/master/android/51-android.rules
+        sudo chmod a+r /etc/udev/rules.d/51-android.rules
+
+        Restart "udev", or reboot the computer, for the new rules to become operational
+        Code:
+
+        sudo service udev restart
+
+
+
+    4. Modes
+    Your phone needs to be in certain modes to perform certain steps in 5. Root, 6. Custom recovery, and 8. Custom ROMs.
+
+    4.1. System mode
+    It is the normal mode of the phone. With the phone turned off, just turn it on, and let it reach the home screen.
+
+    4.2. Download mode
+    It allows you to flash images to the internal memory of the phone.
+
+        With your phone turned off, hold down Volume Down, Center Home, and Power buttons together for about 5 seconds. This will show you a screen warning you about installing operating systems.
+        Press the Volume up button to continue and enter "Download mode" (also called "Odin mode"). In this screen you will see information but won't be able to do anything else. The button combination to enter this mode may be different in other devices.
+        If you entered "Download mode" and you simply want to go out of it, press and hold the same button combination as before or simply remove the battery from your device.
+        With the phone in "Download mode", connect your device with the USB cable to the computer, and run "lsusb", to make sure your device is recognized.
+        Code:
+
+        Bus 002 Device 026: ID 04e8:685d Samsung Electronics Co., Ltd GT-I9100 Phone [Galaxy S II] (Download mode)
+
+
+
+    Many guides talk about entering "Fastboot mode" and the command "fastboot" for flashing images. Newer phones don't have "Fastboot". Instead there is "Download mode" and flashing is done with "heimdall".
+
+    4.3. Recovery mode
+    It allows you perform certain recovery operations on the phone without booting into the system.
+
+        With your phone turned off, hold down Volume Up, Center Home, and Power buttons together for about 5 seconds. This will launch the recovery application.
+        If you have a custom recovery application, like TWRP or CWM, it will start. Otherwise it will start the stock Android recovery application, which is very basic. 
+
+
+
+    5. Root
+
+        In many cases you don't need to perform these instructions to obtain root. You can try doing 6. Custom recovery first.
+        Download root files for your device to your computer. You can find these by searching on the internet, for example, in my case "G925F 6.0.1 Root". If you get a zip file please extract it and look for a ".tar" file. If it's a ".tar.md5" extension simply delete the ".md5" part of the name as the checksum isn't needed here. For reference's sake I'll refer to this file as "root.tar" throughout the guide. The root image contains a small kernel that is installed only once to allow access to root functions. Expect a small file, ranging from 3 MB to 10 MB in size.
+        Extract "root.tar"
+        Code:
+
+        tar -xvf root.tar
+
+        Once extracted you should be presented with "boot.img". If this file is not present try downloading another root kernel.
+        Follow 4.2. Download mode to enter "Download mode" in your device.
+        Now flash the "boot.img" from the computer terminal
+        Code:
+
+        heimdall flash --BOOT boot.img
+
+        If everything went fine, your phone should reboot into the normal system with its new root kernel. If it doesn't, press and hold the same button combination to enter "Download mode" to reboot.
+        Now you can go to the Play Store and download "Root Checker" and "SuperSU", or another application of your choice, to check root status and to manage super user permissions for applications. 
+
+
+
+    6. Custom recovery
+
+        Download the custom recovery image for your device. You can find these by searching on the internet, for example, in my case "G925F 6.0.1 TWRP", for the TWRP recovery image. If you get a zip file please extract it and look for a ".tar" file. If it's a ".tar.md5" extension simply delete the ".md5" part of the name as the checksum isn't needed here. For reference's sake I'll refer to this file as "twrp.tar" throughout the guide. The custom recovery image contains a small application that is only accessible when the phone boots up. Expect a small file, ranging from 8 MB to 20 MB in size.
+        Extract "twrp.tar"
+        Code:
+
+        tar -xvf twrp.tar
+
+        Once extracted you should be presented with "recovery.img". If this file is not present try downloading another custom recovery file.
+        Follow 4.2. Download mode to enter "Download mode" in your device.
+        Now flash the "recovery.img" from the computer terminal
+        Code:
+
+        heimdall flash --RECOVERY recovery.img
+
+        If everything went fine, your phone should reboot. If it doesn't, press and hold the same button combination to enter "Download mode" to reboot.
+        As it reboots, immediately hold down Volume Up, Center Home, and Power buttons together for about 5 seconds to enter "Recovery mode" and see the newly installed recovery application (TWRP in this case).
+        If you don't manage to enter "Recovery mode", turn off your phone and try again the button combination. If you are presented with the standard Android recovery application, it is possible that the flashing was successful but upon reboot the standard recovery image was rewritten by the system. In this case, repeat the steps: turn off the phone, enter "Download mode", and flash "recovery.img" once more. 
+
+
+
+    6.1. Custom recovery and root
+
+        You may install "SuperSU" directly from the recovery application and obtain root access in this way, without performing the instructions on 4. Root.
+        Search on the internet for the installable SuperSU zip file, which we'll call "SuperSU.zip", and download it to your phone (SD card or internal memory).
+        Complete 5. Custom recovery, and enter TWRP as indicated in 4.3. Recovery mode.
+        Install "SuperSU.zip" by navigating to where it was downloaded.
+        Reboot and log in to the home screen normally. You can now go to the Play Store and upgrade "SuperSU", or install another application of your choice, to manage super user permissions for applications. 
+
+
+
+    7. Some notes
+
+        The command "heimdall" flashes (writes) the indicated image into the partition specified by the command line option "--PARTITION". Be sure this is the correct one when you perform this step.
+        You can also use a Heimdall frontend to flash the images, but the command line is certainly faster.
+        Code:
+
+        sudo heimdall-frontend
+
+        For the "heimdall-frontend", go to "Utilities", choose the name of the file, and click "Download to save the PIT file to disk. Then switch to the "Flash" tab, add the corresponding PIT file, browse to the corresponding image file, select the appropriate partition, and then click "Start" to flash the image.
+        The button combination to enter "Download mode" has Volume Down, while to enter "Recovery mode" has Volume Up.
+        Once you install a custom recovery application such as TWRP, you can use it to install ROMs, apps, do backups, and upgrade itself. In general, you only need to access "Download mode" if you wish to flash a new recovery image and you cannot do this from TWRP itself. This may be necessary if a system update or ROM installation rewrites the custom recovery image with the stock Android recovery image. 
+
+
+
+    8. Custom ROMs
+
+        First follow 6. Custom recovery to install a custom recovery image (we assume TWRP).
+        Download your custom ROM zip file. You can find these by searching the internet, for example in my case "G925F 6.0.1 Custom Rom". If you get a zip file then this is the correct format to flash and it doesn't need extracting. For reference's sake I'll refer to this file as "customrom.zip" throughout the guide. Custom ROMs include the main components of the system so expect a large file, ranging from 400 MB to 1000 MB in size, depending on what it actually contains. 
+
+
+
+    8.1. With custom recovery. In this method you don't need the computer anymore, you can install the ROM directly from your phone.
+
+        Transfer "customrom.zip" to the SD card or internal memory of your phone, or download it directly here.
+        Enter "Recovery mode" as indicated in 4.3. Recovery mode.
+        Install "customrom.zip" by navigating to where it was downloaded (SD card or internal memory). 
+
+
+
+    8.2. With ADB sideload. This is very useful if you mess something up and cannot access your device's internal storage!
+
+        Enter "Recovery mode" as indicated in 4.3. Recovery mode.
+        Once TWRP has loaded, head to "Advanced", connect your device with the USB cable to the computer, and click "ADB Sideload". I'd also recommend wiping the "Dalvik Cache" and "Cache" before sideloading.
+        Now in terminal, run "lsusb" again to ensure your computer is recognising the device in "ADB Sideload" mode.
+        Code:
+
+        Bus 002 Device 028: ID 18d1:d002 Google Inc.
+
+        If all has gone well run in the computer terminal
+        Code:
+
+        adb sideload customrom.zip
+
+        Most custom ROMs include an on-screen installer which you need to go through on your device. 
+
