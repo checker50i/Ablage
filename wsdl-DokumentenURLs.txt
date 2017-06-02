@@ -1,0 +1,3 @@
+http://inettec.et-it.hs-offenburg.de:8080/ielshazl_Aufg5Teil1/IelshazlCalculationService?wsdl
+
+http://inettec.et-it.hs-offenburg.de:8080/ielshazl_Aufg5Teil3/IelshazlCustomerService?wsdl
