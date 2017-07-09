@@ -35,3 +35,5 @@ http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
 #EXTINF:0,Al Sunna Al Nabawiya
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/index.m3u8
+#EXTINF:0,Al Araby
+http://api.new.livestream.com/accounts/13453801/events/4043174/live.m3u8
