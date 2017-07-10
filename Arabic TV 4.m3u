@@ -19,6 +19,8 @@ http://163.172.172.72:8081/alqanattv_abr/live/alqanattv/live_640p/chunks.m3u8
 http://212.47.229.17:8081/daawahtv_abr/live/daawahtv/live_640p/chunks.m3u8
 #EXTINF:0,Alhiwar
 http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w622845677_b1264000.m3u8
+#EXTINF:0,Al Araby
+http://api.new.livestream.com/accounts/13453801/events/4043174/live.m3u8
 #EXTINF:0,TRT Arabic
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:0,BBC Arabic
@@ -35,5 +37,3 @@ http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
 #EXTINF:0,Al Sunna Al Nabawiya
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/index.m3u8
-#EXTINF:0,Al Araby
-http://api.new.livestream.com/accounts/13453801/events/4043174/live.m3u8
