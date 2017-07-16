@@ -16,7 +16,7 @@ http://cdn.edge.tmed.pw:8081/watantv_abr/live/playlist.m3u8
 #EXTINF:0,Alqanat
 http://163.172.172.72:8081/alqanattv_abr/live/alqanattv/live_720p/chunks.m3u8
 #EXTINF:0,Daawah
-http://212.47.229.17:8081/daawahtv_abr/live/daawahtv/live_720p/chunks.m3u8
+http://163.172.172.72:8081/daawahtv_abr/live/daawahtv/live_720p/chunks.m3u8
 #EXTINF:0,Alhiwar
 http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w622845677_b1264000.m3u8
 #EXTINF:0,Al Araby
