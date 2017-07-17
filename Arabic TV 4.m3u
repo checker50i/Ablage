@@ -8,9 +8,9 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600k
 #EXTINF:0,Elsharq
 http://cdn.edge.tmed.pw:8081/elsharqtv/abr/playlist.m3u8
 #EXTINF:0,Mekameleen
-http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/chunklist_w1070905999_b2500000.m3u8
+http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/playlist.m3u8
 #EXTINF:0,Mekameleen 2
-http://mn-i.mncdn.com/mekameleen2_live/smil:mekameleen.smil/chunklist_w189186781_b1264000.m3u8
+http://mn-i.mncdn.com/mekameleen2_live/smil:mekameleen.smil/playlist.m3u8
 #EXTINF:0,Watan
 http://cdn.edge.tmed.pw:8081/watantv_abr/live/playlist.m3u8
 #EXTINF:0,Alqanat
