@@ -18,7 +18,7 @@ http://163.172.172.72:8081/alqanattv_abr/live/alqanattv/live_720p/chunks.m3u8
 #EXTINF:0,Daawah
 http://163.172.172.72:8081/daawahtv_abr/live/daawahtv/live_720p/chunks.m3u8
 #EXTINF:0,Alhiwar
-http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_w622845677_b1264000.m3u8
+http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:0,Al Araby
 http://api.new.livestream.com/accounts/13453801/events/4043174/live.m3u8
 #EXTINF:0,Qatar
