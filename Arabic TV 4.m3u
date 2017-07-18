@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:0,Aljazeera
+#EXTINF:0,Aljazeera HD
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
+#EXTINF:0,Aljazeera Nicht HD
+http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
 #EXTINF:0,Aljazeera Mubasher
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
 #EXTINF:0,Aljazeera Documentary
