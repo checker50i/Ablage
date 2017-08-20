@@ -8,23 +8,23 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 #EXTINF:0,Aljazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
 #EXTINF:0,Elsharq
-http://cdn.edge.tmed.pw:8081/elsharqtv/abr/playlist.m3u8
+http://cdn.edge.tmed.pw/elsharqtv/abr/playlist.m3u8
 #EXTINF:0,Mekameleen
 http://mn-i.mncdn.com/mekameleen_ios/smil:mekameleen_ios.smil/playlist.m3u8
 #EXTINF:0,Mekameleen 2
 http://mn-i.mncdn.com/mekameleen2_live/smil:mekameleen.smil/playlist.m3u8
 #EXTINF:0,Watan
-http://cdn.edge.tmed.pw:8081/watantv_abr/live/playlist.m3u8
+http://cdn.edge.tmed.pw/watantv_abr/live/playlist.m3u8
 #EXTINF:0,Alqanat
-http://cdn.edge.tmed.pw:8081/alqanattv_abr/live/playlist.m3u8
+http://cdn.edge.tmed.pw/alqanattv_abr/live/playlist.m3u8
 #EXTINF:0,Daawah
-http://cdn.edge.tmed.pw:8081/daawahtv_abr/live/playlist.m3u8
+http://cdn.edge.tmed.pw/daawahtv_abr/live/playlist.m3u8
 #EXTINF:0,Alhiwar
 http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
 #EXTINF:0,Al Araby
 http://api.new.livestream.com/accounts/13453801/events/4043174/live.m3u8
 #EXTINF:0,Qatar
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_272s.m3u8
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_278s.m3u8
 #EXTINF:0,TRT Arabic
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
 #EXTINF:0,BBC Arabic
