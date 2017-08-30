@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0,Nile Comedy
+http://selevision9882-i.akamaihd.net/hls/live/219201/98827/1.m3u8
+#EXTINF:0,Nile Drama
+http://selevision9882-i.akamaihd.net/hls/live/219203/98829/1.m3u8
+#EXTINF:0,Nile Cinema
+http://selevision9883-i.akamaihd.net/hls/live/219204/98830/1.m3u8
+#EXTINF:0,Rotana Cinema
+http://185.27.116.54:1935/live/rotanacinema/chunklist.m3u8
+#EXTINF:0,Rotana Aflam
+http://selevision9879-i.akamaihd.net/hls/live/219141/98793/1.m3u8
+#EXTINF:0,Alnahar Drama
+http://selevision9877-i.akamaihd.net/hls/live/219120/98772/1.m3u8
+#EXTINF:0,MBC 1
+http://selevision9881-i.akamaihd.net/hls/live/219186/98813/1.m3u8
+#EXTINF:0,MBC 4
+http://selevision9895-i.akamaihd.net/hls/live/219375/98958/1.m3u8
+#EXTINF:0,MBC Drama
+http://selevision9877-i.akamaihd.net/hls/live/219123/98775/1.m3u8
+#EXTINF:0,Abu Dhabi Alemarat
+http://adtv.ercdn.net/adalemarat/adalemarat_720p.m3u8
+#EXTINF:0,Abu Dhabi Drama
+http://adtv.ercdn.net/addrama/addrama_720p.m3u8
+#EXTINF:0,National Geographic Abu Dhabi
+http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
+#EXTINF:0,MTV Lebanon
+https://svs.itworkscdn.net/mtvlebanonlive/smil:mtvlive.smil/chunklist.m3u8
+#EXTINF:0,2M
+https://edge-02.playmedia-cdn.net/origin02/amlst:2m-maroc/chunklist_w509061646_b800000.m3u8
