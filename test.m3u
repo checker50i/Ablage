@@ -8,4 +8,14 @@ http://2202.janjuaplayer.com:8088/live/5yeh4e5hetw34/playlist.m3u8?id=75864&pk=a
 #EXTINF:0,Bein Sports HD 4
 http://93.174.93.67:8088/live/srfhsertjshrtrjs/playlist.m3u8?id=28502&pk=a67f3ffac67ab663cf1f3e3b2fa0a7d20633bb621c7930ed4ed67924d1156a2d
 #EXTINF:0,Bein Sports HD 5
-http://102.mipsplayer.net:8088/live/fbhsaethser/playlist.m3u8?id=264457&pk=a67f3ffac67ab663cf1f3e3b2fa0a7d20633bb621c7930ed4ed67924d1156a2d
+http://80.82.78.33:8088/stream/bein_sports5/playlist.m3u8?id=19162&pk=a67f3ffac67ab663cf1f3e3b2fa0a7d20633bb621c7930ed4ed67924d1156a2d
+#EXTINF:0,Bein Sports HD 6
+http://80.82.78.33:8088/stream/beinsports6/playlist.m3u8?id=18593&pk=a67f3ffac67ab663cf1f3e3b2fa0a7d20633bb621c7930ed4ed67924d1156a2d
+#EXTINF:0,Bein Sports HD 7
+http://80.82.64.144:8088/stream/beinsports7/playlist.m3u8?id=18594&pk=a67f3ffac67ab663cf1f3e3b2fa0a7d20633bb621c7930ed4ed67924d1156a2d
+#EXTINF:0,Bein Sports HD 8
+http://2202.janjuaplayer.com:8088/live/rtjeryjedjytj/playlist.m3u8?id=74833&pk=a67f3ffac67ab663cf1f3e3b2fa0a7d20633bb621c7930ed4ed67924d1156a2d
+#EXTINF:0,Bein Sports HD 9
+http://89.248.171.23:8088/stream/beinsports9/playlist.m3u8?id=18596&pk=a67f3ffac67ab663cf1f3e3b2fa0a7d20633bb621c7930ed4ed67924d1156a2d
+#EXTINF:0,Bein Sports HD 10
+http://93.174.93.66:8088/stream/beinsports10/playlist.m3u8?id=18597&pk=a67f3ffac67ab663cf1f3e3b2fa0a7d20633bb621c7930ed4ed67924d1156a2d
