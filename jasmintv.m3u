@@ -26,33 +26,29 @@ http://livestreams.br.de/i/bfsnord_germany@119898/master.m3u8
 #EXTINF:0,BR HD Sued
 http://livestreams.br.de/i/bfssued_germany@119890/master.m3u8
 #EXTINF:0,KiKa
-http://kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8
-#EXTINF:0,MDR Sachsen
-http://mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8
-#EXTINF:0,MDR Sachsen-Anhalt
-http://mdr_sa_hls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@106901/master.m3u8
-#EXTINF:0,MDR Thüringen
-http://mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8
+https://kikade-lh.akamaihd.net/i/livetvkika_de@450035/master.m3u8
+#EXTINF:0,MDR
+https://mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/master.m3u8
 #EXTINF:0,NDR Hamburg
-http://ndrfs.ndr.de/i/ndrfs_hh@119223/index_3776_av-p.m3u8
+https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
 #EXTINF:0,NDR Mecklenburg-Vorpommern
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_mv@119226/master.m3u8
+https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
 #EXTINF:0,NDR Niedersachsen
-http://ndr_fs-lh.akamaihd.net/i/ndrfs_nds@119224/master.m3u8
+https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
 #EXTINF:0,NDR Schleswig-Holstein
-http://ndrfs.ndr.de/i/ndrfs_sh@119225/master.m3u8
+https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
 #EXTINF:0,RBB Berlin
 https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
 #EXTINF:0,RBB Brandenburg
 https://rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/master.m3u8
 #EXTINF:0,SR HD
-http://livestream.sr-online.de/live.m3u8
+https://srlive24-lh.akamaihd.net/i/sr_universal02@107595/master.m3u8
 #EXTINF:0,SWR HD Baden-Wuerttemberg
 http://swrbw-lh.akamaihd.net/i/swrbw_live@196738/master.m3u8
 #EXTINF:0,SWR HD Rheinland-Pfalz
 http://swrrp-lh.akamaihd.net/i/swrrp_live@196739/master.m3u8
 #EXTINF:0,WDR HD
-http://metafilegenerator.de/WDR/WDR_FS/m3u8/wdrfernsehen.m3u8
+https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
 #EXTINF:0,N24
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 #EXTINF:0,N-TV
@@ -60,7 +56,7 @@ http://p.live.akamai.n-tv.de/playlists/ntvlive-ipadakamai.m3u8
 #EXTINF:0,DAF
 http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
 #EXTINF:0,TV Berlin
-http://stream.der-hauptstadt-sender.de/hls/Themeh4g.m3u8
+https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/mp4:6119_Q7XY8ZNm9PBKywV/playlist.m3u8
 #EXTINF:0,Deluxe Music
 https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
 #EXTINF:0,sky Sport News HD
