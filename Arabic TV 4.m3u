@@ -41,21 +41,3 @@ http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
 #EXTINF:0,Al Sunna Al Nabawiya
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/index.m3u8
-#EXTINF:0,Sky Sport Bundesliga 1
-https://s2.skyfall.to/SkySportBundesliga1/index.m3u8?token=73f11230-15116222014407
-#EXTINF:0,Sky Sport Bundesliga 2
-https://s4.skyfall.to/SkySportBundesliga2/index.m3u8?token=39e2660a-15116224870311
-#EXTINF:0,Sky Sport Bundesliga 3
-https://s1.skyfall.to/SkySportBundesliga3/index.m3u8?token=c6325c35-1511622618319
-#EXTINF:0,Sky Sport Bundesliga 4
-https://s2.skyfall.to/SkySportBundesliga4/index.m3u8?token=d1410360-15116226792232
-#EXTINF:0,Sky Sport Bundesliga 5
-https://s3.skyfall.to/SkySportBundesliga5/index.m3u8?token=90e9f2df-15116227183478
-#EXTINF:0,Sky Sport Bundesliga 6
-https://s4.skyfall.to/SkySportBundesliga6/index.m3u8?token=f63f266d-15116227550024
-#EXTINF:0,Sky Sport News HD
-https://s2.skyfall.to/SkySportNewsHD/index.m3u8?token=7174cc86-15116228652514
-#EXTINF:0,Sky Sport 1
-https://s4.skyfall.to/SkySport1/index.m3u8?token=2ab830de-15116229093152
-#EXTINF:0,Sky Sport 2
-https://s2.skyfall.to/SkySport2/index.m3u8?token=32da2da4-15116229402486
