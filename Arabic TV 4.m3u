@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0,Aljazeera HD
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/703867707318374400/zHFerbz0.jpg",Aljazeera HD
 http://aljazeera-ara-hd-live.hls.adaptive.level3.net/aljazeera/arabic2/index4147.m3u8
 #EXTINF:0,Aljazeera Nicht HD
 http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m3u8
