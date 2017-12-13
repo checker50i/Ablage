@@ -17,7 +17,7 @@ http://mn-i.mncdn.com/mekameleen2_live/smil:mekameleen.smil/playlist.m3u8
 http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/856164834693566466/dH-IfoRw.jpg",Alqanat
 https://59984ff4d6f5f.streamlock.net/live/smil:alqanat9.smil/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/923201295850332160/PbIcuL6z.jpg",Daawah
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/938868480371314688/omV-sZVR.jpg",Daawah
 http://46.101.172.110:8081/daawahtv_source/live2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/826041970304905216/Yr2epC_a.jpg",Alhiwar
 http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
