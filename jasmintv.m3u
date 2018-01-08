@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:0,3sat
 http://zdf0910-lh.akamaihd.net/i/dach10_v1@392872/master.m3u8
 #EXTINF:0,arte DE
@@ -75,3 +75,5 @@ https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
 http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:0,Aljazeera Balkans
 http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+#EXTINF:0,BHT 1
+http://195.222.59.150:1935/live/bht1.stream/chunklist.m3u8
