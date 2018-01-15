@@ -52,7 +52,7 @@ https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geogeblockt@530016/master.m3u8
 #EXTINF:0,N24
 https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/master.m3u8
 #EXTINF:0,N-TV
-http://p.live.akamai.n-tv.de/playlists/ntvlive-ipadakamai.m3u8
+https://ntvlivehls-lh.akamaihd.net/i/ntvlivehls_1@409250/master.m3u8
 #EXTINF:0,DAF
 http://edge-h.daf.tmt.de/ios-live/daf-ios-live-livetv.stream/playlist.m3u8
 #EXTINF:0,TV Berlin
