@@ -20,7 +20,7 @@ https://59984ff4d6f5f.streamlock.net/live/smil:alqanat9.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/938868480371314688/omV-sZVR.jpg",Daawah
 http://46.101.172.110:8081/daawahtv_source/live2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/826041970304905216/Yr2epC_a.jpg",Alhiwar
-http://mn-i.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/888365517337219072/tXGQvAfi.jpg",Al Araby
 http://api.new.livestream.com/accounts/13453801/events/4043174/live.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/887674679078641665/pnUk7pR4.jpg",TRT Arabic
