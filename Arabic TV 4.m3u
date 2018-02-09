@@ -15,7 +15,7 @@ http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
 http://mn-nl.mncdn.com/mekameleen2_live/smil:mekameleen.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/880538865974611968/C0rPdx_T.jpg",Watan
 http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/856164834693566466/dH-IfoRw.jpg",Alqanat 9
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/856164834693566466/dH-IfoRw.jpg",Alqanat9
 https://5a69dcfbbc91d.streamlock.net/live/alqanat9/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/938868480371314688/omV-sZVR.jpg",Daawah
 http://46.101.172.110:8081/daawahtv_source/live2/playlist.m3u8
