@@ -17,11 +17,11 @@ http://mn-nl.mncdn.com/mekameleen2_live/smil:mekameleen.smil/chunklist.m3u8
 http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/856164834693566466/dH-IfoRw.jpg",Alqanat 9
 https://5a69dcfbbc91d.streamlock.net/live/alqanat9/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/938868480371314688/omV-sZVR.jpg",Daawah
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/986960299222806528/w_JfSUEU.jpg",Daawah
 http://46.101.172.110:8081/daawahtv_source/live2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/826041970304905216/Yr2epC_a.jpg",Alhiwar
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/888365517337219072/tXGQvAfi.jpg",Al Araby
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/972004889642516484/ws0UH44L.jpg",Al Araby
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/887674679078641665/pnUk7pR4.jpg",TRT Arabic
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
