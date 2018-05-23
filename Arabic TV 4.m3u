@@ -13,7 +13,7 @@ http://46.101.172.110:8081/elsharqtv_source/live/chunks.m3u8
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/3/0/2/23022405/23022405.jpg",Mekameleen 2
 http://mn-nl.mncdn.com/mekameleen2_live/smil:mekameleen.smil/chunklist.m3u8
-#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/880538865974611968/C0rPdx_T.jpg",Watan
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/996789174912147456/DiVK6aNE.jpg",Watan
 http://188.166.3.79:8081/watantv_source2/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/856164834693566466/dH-IfoRw.jpg",Alqanat 9
 https://5a69dcfbbc91d.streamlock.net/live/alqanat9/chunklist.m3u8
