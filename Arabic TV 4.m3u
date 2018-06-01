@@ -10,7 +10,7 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600k
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/810549545671204865/q46N-7gq.jpg",Elsharq
 http://46.101.172.110:8081/elsharqtv_source/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/915548224752164865/hBTAcApV.jpg",Mekameleen
-http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/3/0/2/23022405/23022405.jpg",Mekameleen 2
 http://mn-nl.mncdn.com/mekameleen2_live/smil:mekameleen.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/996789174912147456/DiVK6aNE.jpg",Watan
