@@ -38,6 +38,6 @@ http://live.aqsatv.ps:1935/aqsatv/live/tv/playlist.m3u8
 #EXTINF:0 tvg-logo="http://qurantv.sa/templates/stvdefault/images/logo.png",Al Quran Al Kareem
 http://wpc.55d6d.deltacdn.net/3055D6D/teb002/55D6D-channel7/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1441906643/International.jpg",Iqraa
-http://iqraa.cdn.mangomolo.com/iqraaar/smil:iqraaardir.smil/playlist.m3u8
+http://199.167.151.237:1935/live/sp15_25.stream/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://sunnatv.sa/templates/stvdefault/images/logo.png",Al Sunna Al Nabawiya
 https://cmt-tech.cdn.warpcache.net/teb002/55D6D-channel8/index.m3u8
