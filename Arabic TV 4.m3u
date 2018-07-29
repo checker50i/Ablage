@@ -8,7 +8,7 @@ http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubashe
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/882568278610018304/TS980ZpN.jpg",Aljazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/810549545671204865/q46N-7gq.jpg",Elsharq
-http://cdg6.edge.tmed.pw/elsharqtv_main/main/playlist.m3u8
+http://149.202.79.190:8081/elsharqtv/source/chunks.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/915548224752164865/hBTAcApV.jpg",Mekameleen
 http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
 #EXTINF:0 tvg-logo="http://static-cdn2.ustream.tv/i/channel/picture/2/3/0/2/23022405/23022405.jpg",Mekameleen 2
