@@ -1,0 +1,37 @@
+http://iptv-line.com:6969/get.php?username=ralfdieter1&password=QAj2SJ7K&type=m3u_plus&output=ts
+
+Web Stream: http://iptv-webplayer.com:25461/webplayer/
+
+Username: ralfdieter1
+
+Password: QAj2SJ7K
+
+EPG Link: http://iptv-line.com:6969/xmltv.php?username=ralfdieter1&password=QAj2SJ7K
+
+Android mobile app: https://play.google.com/store/apps/details?id=com.premiumiptv.premiumiptviptv&hl=en
+
+For Android boxes: http://iptvreseller.xyz:1234/Premium_IptvTVBox.apk
+
+Plugin for Kodi: http://iptvreseller.xyz:1234/kodi.zip
+
+IPTV Tutorial: https://bestbuyiptv.com/iptv-tutorial/
+
+Portal: http://iptv-line.com:6969/c/
+
+Hello ralfdieter@yandex.com and welcome to Bestbuyiptv.store!
+
+You have registered successfully Personal  account on Bestbuyiptv.store. Please login and create trial
+Your account information:
+Link to log in: https://bestbuyiptv.store/
+Username: ralfdieter@yandex.com
+Password: swUy355V
+Password email: Ralfdieter96
+
+Create a 48h free trial: https://bestbuyiptv.com/iptv-free-trial-2019/
+
+Tutorial: https://bestbuyiptv.com/iptv-tutorial/
+
+If you have any questions, do not hesitate to contact us. We love to help.
+
+Best regards,
+BestbuyIPTV support team
