@@ -14,7 +14,7 @@ http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/07.jpg",Watan
 http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/08.jpg",Alqanat 9
-https://5baddb02ef445.streamlock.net/qanat/alqanat9/playlist.m3u8
+https://5baddb02ef445.streamlock.net/qanat/alqanat9/chunklist_w1401664362.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/09.jpg",Daawah
 http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/10.jpg",Alhiwar
@@ -22,13 +22,13 @@ https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/11.jpg",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg",TRT Arabic
-https://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
+https://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/index_1250_av-b.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/13.jpg",BBC Arabic
-http://bbcwslive.mmdlive.lldns.net/bbcwslive/333091d555e2404785a0339bf4779ac1/chunklist.m3u8
+http://bbcwshdlive01-lh.akamaihd.net/i/atv_1@61433/index_800_av-p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/14.jpg",France 24 Arabic
 http://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/15.jpg",DW Arabic
-http://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/index_1_av-b.m3u8
+https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/16.jpg",Alquds
 http://67.210.241.228:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg",Alaqsa
