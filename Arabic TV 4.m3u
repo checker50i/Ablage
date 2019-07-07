@@ -7,7 +7,7 @@ http://aljazeera-ara-apple-live.adaptive.level3.net/apple/aljazeera/arabic/800.m
 http://aljazeera-mubasher-apple-live.adaptive.level3.net/apple/aljazeera/mubasher/800.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/04.jpg",Aljazeera Documentary
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/hq-doc/1600kStream.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/05.png",Elsharq
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/23.png",Elsharq
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/22.png",Elsharq Elawsat
 https://mn-nl.mncdn.com/elsharq_me/live/playlist.m3u8
