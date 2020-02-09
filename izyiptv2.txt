@@ -18,6 +18,8 @@ IPTV Tutorial: https://bestbuyiptv.com/iptv-tutorial/
 
 http://m3ulink.com:6969/get.php?username=srgarsgsrg1&password=F9g651Bq&type=m3u_plus&output=ts
 
+Portal for MAG-Device: http://m3ulink.com:6969/c/
+
 Portal:
 
 http://m3ulink.com:6969
