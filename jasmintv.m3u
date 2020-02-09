@@ -71,9 +71,7 @@ http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
 https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:0,Aljazeera English HD
 https://english.streaming.aljazeera.net/aljazeera/english2/index.m3u8
-#EXTINF:0,Aljazeera English
-http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
 #EXTINF:0,Aljazeera Balkans
-http://aljazeera-balkans-apple-live.adaptive.level3.net/apple/aljazeera/balkans/800.m3u8
+https://live-hls-web-ajb.getaj.net/AJB/01.m3u8
 #EXTINF:0,BHT 1
 http://195.222.59.150:1935/live/bht1.stream/chunklist.m3u8
