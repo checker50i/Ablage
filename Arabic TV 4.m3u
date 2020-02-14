@@ -34,7 +34,7 @@ https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/16.jpg",Alquds
 http://67.210.241.228:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg",Alaqsa
-https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w758861709.m3u8
+https://live-1.linuxway.info/aqsatv/live/tv/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg",Al Quran Al Kareem
 http://m.live.net.sa:1935/live/quran/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg",Iqraa
