@@ -31,8 +31,6 @@ http://livecdnh2.tvanywhere.ae/hls/bbc_ar/04.m3u8
 http://static.france24.com/live/F24_AR_HI_HLS/live_web.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/15.jpg",DW Arabic
 https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/16.jpg",Alquds
-http://67.210.241.228:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg",Alaqsa
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg",Al Quran Al Kareem
