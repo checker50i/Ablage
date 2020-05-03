@@ -20,9 +20,9 @@ https://5e5816ff6a9c4.streamlock.net:444/qanat/smil:alqanat9.smil/chunklist_b139
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/09.jpg",Daawah
 http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/10.jpg",Alhiwar
-https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b1264000.m3u8
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b2796000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg",Qatar TV
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_5001.m3u8
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/master720p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/11.jpg",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg",TRT Arabic
@@ -36,8 +36,8 @@ https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg",Alaqsa
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg",Al Quran Al Kareem
-http://m.live.net.sa:1935/live/quran/playlist.m3u8
+https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist_w246789555.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg",Iqraa
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/20.png",Al Sunna Al Nabawiya
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
