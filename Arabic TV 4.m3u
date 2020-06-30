@@ -26,9 +26,9 @@ http://qtv-i.akamaihd.net/hls/live/213233/QTV/master720p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/11.jpg",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg",TRT Arabic
-https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
+https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/13.jpg",BBC Arabic
-http://livecdnh2.tvanywhere.ae/hls/bbc_ar/04.m3u8
+http://vs-hls-ww-live.akamaized.net/pool_902/live/nonuk/bbc_arabic_tv/bbc_arabic_tv.isml/bbc_arabic_tv-pa4=128000-video=5070016.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/14.jpg",France 24 Arabic
 http://f24hls-i.akamaihd.net/hls/live/221196/F24_AR_LO_HLS/master_900.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/15.jpg",DW Arabic
@@ -36,8 +36,8 @@ https://dwstream22-lh.akamaihd.net/i/dwstream22_live@500519/index_1_av-p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg",Alaqsa
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg",Al Quran Al Kareem
-https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist_w246789555.m3u8
+http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist_w2079433332.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg",Iqraa
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/20.png",Al Sunna Al Nabawiya
-http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2.m3u8
