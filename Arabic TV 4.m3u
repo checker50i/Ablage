@@ -37,7 +37,7 @@ http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist_w2079433
 http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/20.png",Al Sunna Al Nabawiya
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah-avc1_600000=4-mp4a_97200=2.m3u8
-#EXTINF:0,BILD TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/27.jpg",BILD LIVE
 https://bildlivehls-lh.akamaihd.net/i/bildlivedvr_1@328823/index_2328_av-p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/25.png",Aljazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
