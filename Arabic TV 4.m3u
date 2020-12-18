@@ -22,7 +22,7 @@ http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/08.jpg",Alqanat 9
 https://cdn.videoevent.live:19360/alqanat9/alqanat9.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/09.jpg",Daawah
-http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
+http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/10.jpg",Alhiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b2796000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg",Qatar TV
