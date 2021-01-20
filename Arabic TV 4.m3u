@@ -56,7 +56,7 @@ https://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/tagesschau24.png",Tagesschau24
 https://tagesschau-lh.akamaihd.net/i/tagesschau_3@66339/index_3776_av-p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/ssn.png",Sky Sport News
-https://websitefreestreaming.akamaized.net/11111_ssnweb/stream06/streamPlaylist.m3u8
+https://websitefreestreaming.akamaized.net/11111_ssnweb/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/france24fr.png",France 24 French
 https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/lci.jpg",LCI
