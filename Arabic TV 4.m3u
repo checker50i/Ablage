@@ -20,7 +20,7 @@ http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/07.jpg",Watan
 http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/08.jpg",Alqanat 9
-https://cdn.videoevent.live:19360/alqanat9/alqanat9.m3u8
+https://cdn.bestream.io:19360/alqanat9/alqanat9.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/09.jpg",Daawah
 http://51.15.246.58:8081/daawahtv/daawahtv2/chunks.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/10.jpg",Alhiwar
