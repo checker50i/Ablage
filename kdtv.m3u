@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:0, Al Jazeera
+plugin://plugin.video.youtube/play/?video_id=eJ6ZMd4sVrI
+#EXTINF:0,Al Jazeera Mubasher
+plugin://plugin.video.youtube/play/?video_id=sgnBmLqmzDY
+#EXTINF:0,Al Jazeera Mubasher 2
+plugin://plugin.video.youtube/play/?video_id=mtXfjhXhuj0
+#EXTINF:0,Al Jazeera Mubasher 24
+plugin://plugin.video.youtube/play/?video_id=7H_Sg3V7AZI
+#EXTINF:0,Al Hiwar
+plugin://plugin.video.youtube/play/?video_id=YbleygUQqFA
+#EXTINF:0,Al Araby
+plugin://plugin.video.youtube/play/?video_id=yYlLHrU-1ek
+#EXTINF:0,DW Arabic
+plugin://plugin.video.youtube/play/?video_id=f-Zhea0apIs
+#EXTINF:0,BBC Arabic
+plugin://plugin.video.youtube/play/?video_id=HxI2TxhhS9A
+#EXTINF:0,France 24 Arabic
+plugin://plugin.video.youtube/play/?video_id=8BZpOolYLUA
+#EXTINF:0, Al Quran Al Karim
+plugin://plugin.video.youtube/play/?video_id=wu8pF5B-rY8
+#EXTINF:0,As Sunnah Al Nabawiyah
+plugin://plugin.video.youtube/play/?video_id=EXEi-B3VZv4
+#EXTINF:0,France 24 FR
+plugin://plugin.video.youtube/play/?video_id=u9foWyMSATM
+#EXTINF:0,Euronews FR
+plugin://plugin.video.youtube/play/?video_id=MsN0_WNXvh8
+#EXTINF:0,FRANCEINFO
+plugin://plugin.video.youtube/play/?video_id=Z-Nwo-ypKtM
