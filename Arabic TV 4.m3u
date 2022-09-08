@@ -12,7 +12,7 @@ http://live-hls-web-ajm.getaj.net/AJM/02.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/03.png",Aljazeera Mubasher SD
 http://live-hls-web-ajm.getaj.net/AJM/03.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/04.jpg",Aljazeera Documentary
-http://live-hls-web-ajd.getaj.net/AJD/01.m3u8
+http://95.216.180.111:1935/live/111/chunklist_w644707378.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/999.jpg",AlShaoubTV
 https://cdg8.edge.technocdn.com/alshoobtv/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/23.png",Elsharq
