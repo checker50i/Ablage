@@ -46,13 +46,13 @@ https://dwamdstream108.akamaized.net/hls/live/2017969/dwstream108/stream05/strea
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg",Alaqsa
 https://live01.iflex.ps/Aqsa/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg",Al Quran Al Kareem
-http://5b18be6964c2f.streamlock.net:1935/live/_definst_/quran/chunklist_w2079433332.m3u8
+http://m.live.net.sa:1935/live/quran/chunklist_w1808241236.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg",Iqraa
-http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+https://jmc-live.ercdn.net/iqraa/iqraa_576p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg",Iqraa Europe Africa
-https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_576p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/20.png",Al Sunna Al Nabawiya
-https://5b18be6964c2f.streamlock.net/live/_definst_/sunnah/chunklist_w817986393.m3u8
+http://m.live.net.sa:1935/live/sunnah/chunklist_w947786633.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/27.jpg",BILD LIVE
 https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/index_5628_av-p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/25.png",Aljazeera English HD
