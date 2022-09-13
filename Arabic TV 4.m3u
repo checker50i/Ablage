@@ -73,7 +73,7 @@ https://lci-hls-live-ssl.tf1.fr/lci/1/hls/live_2328.m3u8
 https://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/tf1.png",TF1
 https://tf1-hls-live-ssl.tf1.fr/tf1/1/hls/live_2328.m3u8
-#EXTINF:0,-->AB HIER KODI ONLY!!!<--
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/996.png",-->AB HIER KODI ONLY!!!<--
 plugin://plugin.video.youtube/play/?video_id=eJ6ZMd4sVrI
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/28.png", Al Jazeera
 plugin://plugin.video.youtube/play/?video_id=eJ6ZMd4sVrI
