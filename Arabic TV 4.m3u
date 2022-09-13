@@ -66,7 +66,7 @@ https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/996.png",-->AB HIER KODI ONLY!!!<--
 plugin://plugin.video.youtube/play/?video_id=eJ6ZMd4sVrI
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/28.png", Al Jazeera
-https://www.youtube.com/watch?v=eJ6ZMd4sVrI
+plugin://plugin.video.youtube/play/?video_id=eJ6ZMd4sVrI
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/29.png",Al Jazeera Mubasher
 plugin://plugin.video.youtube/play/?video_id=sgnBmLqmzDY
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/29.png",Al Jazeera Mubasher 2
