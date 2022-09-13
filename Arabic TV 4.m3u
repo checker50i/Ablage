@@ -99,7 +99,7 @@ plugin://plugin.video.youtube/play/?video_id=wu8pF5B-rY8
 plugin://plugin.video.youtube/play/?video_id=EXEi-B3VZv4
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/france24fr.png",France 24 FR
 plugin://plugin.video.youtube/play/?video_id=u9foWyMSATM
-#EXTINF:0,Euronews FR
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/998.png",Euronews FR
 plugin://plugin.video.youtube/play/?video_id=MsN0_WNXvh8
-#EXTINF:0,FRANCEINFO
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/997.jpg",FRANCEINFO
 plugin://plugin.video.youtube/play/?video_id=Z-Nwo-ypKtM
