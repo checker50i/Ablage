@@ -46,13 +46,13 @@ https://dwamdstream108.akamaized.net/hls/live/2017969/dwstream108/stream05/strea
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg",Alaqsa
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1594562428.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg",Al Quran Al Kareem
-http://m.live.net.sa:1935/live/quran/chunklist_w1808241236.m3u8
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg",Iqraa
 https://jmc-live.ercdn.net/iqraa/iqraa_576p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg",Iqraa Europe Africa
 https://jmc-live.ercdn.net/iqraaeurope/iqraaeurope_576p.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/20.png",Al Sunna Al Nabawiya
-http://m.live.net.sa:1935/live/sunnah/chunklist_w947786633.m3u8
+https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/27.jpg",BILD LIVE
 https://broadcast.bild.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1de8bbe03e0fe29/bildtv-broadcast-prod/8f21334e-3905-4f83-9b59-adfa0a04d386/3.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/25.png",Aljazeera English HD
@@ -84,9 +84,9 @@ plugin://plugin.video.youtube/play/?video_id=HxI2TxhhS9A
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/14.jpg",France 24 Arabic
 plugin://plugin.video.youtube/play/?video_id=8BZpOolYLUA
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg", Al Quran Al Karim
-plugin://plugin.video.youtube/play/?video_id=3loPeQnJKk4
+plugin://plugin.video.youtube/play/?video_id=qK-zm6rcYmA
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/20.png",As Sunnah Al Nabawiyah
-plugin://plugin.video.youtube/play/?video_id=bRSKpb_xzq0
+plugin://plugin.video.youtube/play/?video_id=Jrn0OdQxuyg
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/france24fr.png",France 24 FR
 plugin://plugin.video.youtube/play/?video_id=gxG3pdKvlIs
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/998.png",Euronews FR
