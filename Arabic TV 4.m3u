@@ -84,7 +84,9 @@ https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b08816
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/20.png",As Sunnah Al Nabawiyah YouTube
 plugin://plugin.video.youtube/play/?video_id=VTRjcZQFx6k
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/27.jpg",BILD LIVE
-https://broadcast.bild.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1de8bbe03e0fe29/bildtv-broadcast-prod/8f21334e-3905-4f83-9b59-adfa0a04d386/3.m3u8
+https://stream.best-of-bild.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1de8bbe03e0fe29/best-of-bild-prod/c4c1dd34-e641-4c3f-a32d-9a6480e5bedf/2.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/27.jpg",BILD LIVE YouTube
+plugin://plugin.video.youtube/play/?video_id=XeA0El2PQrg
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/25.png",Aljazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/26.png",TRT World
