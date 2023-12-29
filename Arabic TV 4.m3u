@@ -37,9 +37,9 @@ https://rp.tactivemedia.com/daawahtv/live/chunks.m3u8
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b464000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/10.jpg",Al Hiwar YouTube
 plugin://plugin.video.youtube/play/?video_id=VgnzFDIPxrU
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg",Qatar TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg",Qatar
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg",Qatar 2 TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg",Qatar 2
 https://qatartv.akamaized.net/hls/live/2026574/qtv2/4.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/11.jpg",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
@@ -65,7 +65,7 @@ https://dwamdstream108.akamaized.net/hls/live/2017969/dwstream108/stream05/strea
 plugin://plugin.video.youtube/play/?video_id=BKXyGQtyECo
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg",Alaqsa
 https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1594562428.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/34553.jpeg",Al Yarmouk TV
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/34553.jpeg",Al Yarmouk
 plugin://plugin.video.twitch/?mode=play&channel_id=967017352
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/3495873.png",i24 Arabic
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
