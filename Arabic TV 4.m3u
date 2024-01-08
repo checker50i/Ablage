@@ -51,32 +51,24 @@ https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b
 https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg",TRT Arabic (YouTube)
 plugin://plugin.video.youtube/play/?video_id=vjErm8a9gGo
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/13.jpg",BBC Arabic
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/t=3840/v=pv10/b=1604032/main.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/13.jpg",BBC Arabic (YouTube)
 plugin://plugin.video.youtube/play/?video_id=sjSicV3RmFQ
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/14.jpg",France 24 Arabic
-http://f24hls-i.akamaihd.net/hls/live/221148-b/F24_AR_HI_HLS/01.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/14.jpg",France 24 Arabic (YouTube)
 plugin://plugin.video.youtube/play/?video_id=VuYzy8IuT0Y
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/15.jpg",DW Arabic
 https://dwamdstream108.akamaized.net/hls/live/2017969/dwstream108/stream05/streamPlaylist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/15.jpg",DW Arabic (YouTube)
 plugin://plugin.video.youtube/play/?video_id=BKXyGQtyECo
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg",Alaqsa
-https://live-1.linuxway.info/aqsatv/live/tv/chunklist_w1594562428.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/34553.jpeg",Al Yarmouk (Twitch)
 plugin://plugin.video.twitch/?mode=play&channel_id=967017352
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/76578.jpeg",Al Ghad (YouTube)
-plugin://plugin.video.youtube/play/?video_id=YeHlseLHKzw
+plugin://plugin.video.youtube/play/?video_id=KZO3WqE_kmo
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/3495873.png",i24 Arabic
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg",Al Quran Al Kareem
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg", Al Quran Al Karim (YouTube)
 plugin://plugin.video.youtube/play/?video_id=PEmRPDJ9I8M
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg", Al Quran Al Karim (YouTube 2)
-plugin://plugin.video.youtube/play/?video_id=1G-sh_FPQ2Q
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg",Iqraa
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg",Iqraa Europe Africa
@@ -85,8 +77,6 @@ https://iqraa-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
 https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/20.png",As Sunnah Al Nabawiyah (YouTube)
 plugin://plugin.video.youtube/play/?video_id=VTRjcZQFx6k
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/27.jpg",BILD LIVE
-https://stream.best-of-bild.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1de8bbe03e0fe29/best-of-bild-prod/c4c1dd34-e641-4c3f-a32d-9a6480e5bedf/2.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/27.jpg",BILD LIVE (YouTube)
 plugin://plugin.video.youtube/play/?video_id=XeA0El2PQrg
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/25.png",Aljazeera English HD
