@@ -68,7 +68,7 @@ https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/53
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg",Al Quran Al Kareem
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index_1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg", Al Quran Al Karim (YouTube)
-plugin://plugin.video.youtube/play/?video_id=PEmRPDJ9I8M
+plugin://plugin.video.youtube/play/?video_id=moQtMet7F7w
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg",Iqraa
 https://iqraa-live.ercdn.net/iqraa/iqraa.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/19.jpeg",Iqraa Europe Africa
@@ -76,7 +76,7 @@ https://iqraa-live.ercdn.net/iqraaeurope/iqraaeurope.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/20.png",Al Sunna Al Nabawiya
 https://shls-euronews-en-prod-dub.shahid.net/out/v1/b09bbb8d9b684763be4211b088168de7/index_1.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/20.png",As Sunnah Al Nabawiyah (YouTube)
-plugin://plugin.video.youtube/play/?video_id=VTRjcZQFx6k
+plugin://plugin.video.youtube/play/?video_id=-mr6TD6YxR8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/27.jpg",BILD LIVE (YouTube)
 plugin://plugin.video.youtube/play/?video_id=XeA0El2PQrg
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/25.png",Aljazeera English HD
