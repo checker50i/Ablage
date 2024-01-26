@@ -36,7 +36,7 @@ https://rp.tactivemedia.com/daawahtv/live/chunks.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/10.jpg",Alhiwar
 https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist_b464000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/10.jpg",Al Hiwar (YouTube)
-plugin://plugin.video.youtube/play/?video_id=VgnzFDIPxrU
+plugin://plugin.video.youtube/play/?video_id=UaWhkKeFCvw
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg",Qatar
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/4.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/24.jpg",Qatar 2
@@ -62,7 +62,7 @@ plugin://plugin.video.youtube/play/?video_id=BKXyGQtyECo
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/34553.jpeg",Al Yarmouk (Twitch)
 plugin://plugin.video.twitch/?mode=play&channel_id=967017352
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/76578.jpeg",Al Ghad (YouTube)
-plugin://plugin.video.youtube/play/?video_id=KZO3WqE_kmo
+plugin://plugin.video.youtube/play/?video_id=vsd7MKM8ZzI
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/3495873.png",i24 Arabic
 https://bcovlive-a.akamaihd.net/773a2fa387914315ad11e6957cd54f6e/eu-central-1/5377161796001/playlist-all_dvr.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/18.jpg",Al Quran Al Kareem
