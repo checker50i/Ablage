@@ -70,7 +70,7 @@ plugin://plugin.video.youtube/play/?video_id=w-OrhefF76U
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg",TRT Arabic (YouTube 2)
 https://ythls-v2.onrender.com/channel/UC5GvVahlgulCyo4cshSmbcg.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg",TRT Arabic (YouTube 3)
-https://ythls.armelin.one/channel/UC65i3Fyq91uiUkIS0i5GLNQ.m3u8
+https://ythls.armelin.one/channel/UC5GvVahlgulCyo4cshSmbcg.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/13.jpg",BBC Arabic (YouTube)
 plugin://plugin.video.youtube/play/?video_id=sjSicV3RmFQ
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/13.jpg",BBC Arabic (YouTube 2)
