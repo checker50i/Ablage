@@ -91,6 +91,8 @@ plugin://plugin.video.youtube/play/?video_id=BKXyGQtyECo
 https://ythls-v2.onrender.com/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/15.jpg",DW Arabic (YouTube 3)
 https://ythls.armelin.one/channel/UC30ditU5JI16o5NbFsHde_Q.m3u8
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg",Al Aqsa
+http://95.216.180.111:1935/live/68/chunklist_w112291932.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/34553.jpeg",Al Yarmouk (Twitch)
 plugin://plugin.video.twitch/?mode=play&channel_id=967017352
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/76578.jpeg",Al Ghad (YouTube)
