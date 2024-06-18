@@ -64,7 +64,7 @@ https://ythls.armelin.one/channel/UC65i3Fyq91uiUkIS0i5GLNQ.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/11.jpg",Al Araby 2
 https://alaraby.cdn.octivid.com/alaraby2n/smil:alaraby2n.stream.smil/chunklist_b4000000.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg",TRT Arabic
-https://tv-trtarabi.live.trt.com.tr/master_720.m3u8
+https://tv-trtarabi.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg",TRT Arabic (YouTube)
 plugin://plugin.video.youtube/play/?video_id=w-OrhefF76U
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/12.jpg",TRT Arabic (YouTube 2)
@@ -101,8 +101,6 @@ https://rt-arb.rttv.com/live/rtarab/playlist_4500Kb.m3u8
 https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/17.jpg",Al Aqsa
 http://95.216.180.111:1935/live/68/chunklist_w112291932.m3u8
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/34553.jpeg",Al Yarmouk (Twitch)
-plugin://plugin.video.twitch/?mode=play&channel_id=967017352
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/jkklknkln.jpg",Palestine Today
 https://live.paltodaytv.com/paltv/live/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/76578.jpeg",Al Ghad (YouTube)
@@ -142,7 +140,7 @@ https://ythls.armelin.one/channel/UC4zcMHyrT_xyWlgy5WGpFFQ.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/25.png",Aljazeera English HD
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/26.png",TRT World
-https://tv-trtworld.live.trt.com.tr/master_720.m3u8
+https://tv-trtworld.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/welt.png",WELT
 https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/tagesschau24.png",Tagesschau24
