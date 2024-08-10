@@ -104,7 +104,7 @@ http://95.216.180.111:1935/live/68/chunklist_w112291932.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/jkklknkln.jpg",Palestine Today
 https://live.paltodaytv.com/paltv/live/chunklist.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/channels4_profile.jpg",Qudsuna
-https://qudsunatv-live.cdnnew.com/qudsunatv/qudsunatv_higher.m3u8
+https://qudsunatv-live.cdnnew.com/qudsunatv/qudsunatv.m3u8
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/76578.jpeg",Al Ghad (YouTube)
 plugin://plugin.video.youtube/play/?video_id=cHwzKk-TWlE
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/checker50i/Ablage/master/Logos/76578.jpeg",Al Ghad (YouTube 2)
